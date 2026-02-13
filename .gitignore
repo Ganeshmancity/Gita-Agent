@@ -1,0 +1,21 @@
+
+# Virtual Environment
+venv/ 
+# Environment Variables
+.env
+#python cache
+__pycache__/
+*.pyc 
+*.pyo 
+*.pyd 
+#Qdrant local database storage
+
+hindu_texts_db/
+*.sqlite
+*.db 
+
+# vs code settings
+.vscode/
+#OS files
+.DS_Store
+Thumbs.db
